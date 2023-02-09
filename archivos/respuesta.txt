@@ -1,0 +1,1 @@
+Ocurrio un error respecto a quien estaba haciendo el push y exigio que me identificara, se soluciono en opciones/git
