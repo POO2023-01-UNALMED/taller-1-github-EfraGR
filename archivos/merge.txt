@@ -1,0 +1,4 @@
+Hola soy efrain gomez ramirez, tengo 18 años y aspiro poder interiorizar todos los conceptos de poo
+lo que ocurrio con la carpeta es que estaba vacia y este no era un cambio a un archivo en si
+
+es importante tener cuidado porque se puede generar mas de un conflicto y ser complicados de solucionar.
